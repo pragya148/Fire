@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587467055475",
+    "project_id": "fire-2dfaa",
+    "storage_bucket": "fire-2dfaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587467055475:android:55e94307b4dee20b322506",
+        "android_client_info": {
+          "package_name": "com.example.fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAznMcfSl2qAsgfM62bXDvbNG_nqRLpQpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
